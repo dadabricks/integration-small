@@ -1,2 +1,4 @@
 # integration-small
-Repository for integration test
+This is the repository for Git integration test in Repos.
+
+Please don't push changes to this repository.
